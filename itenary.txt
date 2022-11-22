@@ -1,6 +1,11 @@
 Packing list
-======
-= Towel
-= Tooth Brush
-= Vicks
-= Phone
+=======
+- Towel
+- Tooth Brush
+- Vicks
+- Phone
+
+Field Trip
+=====
+Snacks
+Chips
